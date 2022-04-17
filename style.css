@@ -6,6 +6,7 @@
 .body{
     font-family: "Overpass", "Ubuntu";
     color: black;
+    overflow-x: hidden;
 }
 .head-content{
     border-bottom-left-radius: 5em;
