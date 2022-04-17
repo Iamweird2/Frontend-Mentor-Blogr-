@@ -6,7 +6,6 @@
 .body{
     font-family: "Overpass", "Ubuntu";
     color: black;
-    width: 100%;
 }
 .head-content{
     border-bottom-left-radius: 5em;
@@ -233,6 +232,7 @@
 }
 .laptop{
    margin: 3.8em 0 2em; 
+   overflow: hidden;
 }
 .laptop-img{
     width: 140%;
