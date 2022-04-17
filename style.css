@@ -2,11 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 .body{
     font-family: "Overpass", "Ubuntu";
     color: black;
-    overflow-x: hidden;
 }
 .head-content{
     border-bottom-left-radius: 5em;
